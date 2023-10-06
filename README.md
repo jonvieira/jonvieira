@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Jonas Vieira 👋
 
+<div align="center">
+  <a href="https://github.com/jonvieira">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonvieira&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jonvieira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github"/>
+</div>
+   
 <!--
 **jonvieira/jonvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
