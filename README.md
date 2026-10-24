@@ -1,6 +1,6 @@
 # Hi there, I'm Jonas Vieira 👋
 
-I'm a mobile developer, focused on Android, committed to learning and sharing knowledge. Here I share a little of what I do and how I do it. I'm currently an Android developer at @myfreecomm 
+I'm a mobile developer, focused on Android, committed to learning and sharing knowledge. Here I share a little of what I do and how I do it. I'm currently an Android developer at @stradalog 
 
 ## ⚡️ GitHub Stats
 <div align="center">
